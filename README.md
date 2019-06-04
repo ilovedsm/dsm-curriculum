@@ -36,9 +36,9 @@ DSM Curriculum은 대덕소프트웨어마이스터고등학교 재학생을 위
 
 영문 정렬(A~Z)
 
-### Revise
+### 2019
 
-#### 2019
+#### Revise
 
 Android: [SeungMin Jeon](https://github.com/nwar-Jeon)
 

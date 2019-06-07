@@ -5,7 +5,7 @@ DSM Curriculum은 대덕소프트웨어마이스터고등학교 재학생을 위
 커리큘럼은 각 전공 분야별로 코스를 구성하였고, 학생 위주의 경험을 통해 선별 된 자료, 책이나 오픈 소스를 제공함으로써 자기주도적인 학습을 유도하는 것이 목적입니다.
 
 ## Curriculum
-- [Machine Learning](https://github.com/ilovedsm/dsm-curriculum/blob/master/Muchine%20Learning/README.md)
+- [Machine Learning](https://github.com/ilovedsm/dsm-curriculum/blob/master/Machine%20Learning/README.md)
 
 ## Contributing
 

@@ -37,6 +37,7 @@
 1. [[Book]인공지능을 위한 수학](http://www.yes24.com/Product/Goods/66913718) : 딥러닝에 필요한 완전 기초 수학인 함수, 행렬, 미분 개념을 배울 수 있습니다.
 
 2. [[YouTube]선형대수 강의 시리즈](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) : 믿을 수 있는 수학 채널인 3Blue1Brown에서 제공하는 자료입니다. 영상 설명이다 보니 이해하기 편합니다.
+3. [[Site]확률 분포 튜토리얼](https://brunch.co.kr/@chris-song/90?fbclid=IwAR0wFLJYymK-40B7LI3TZknCebkQf9FBYEXdUP2TiM9VWBjyMKtkQ6Ph6KM) : 논문 읽는데 필요한 확률 분포에 대한 튜토리얼입니다. 매우 쉽습니다.
 
 #### 심화
 

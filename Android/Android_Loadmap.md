@@ -4,11 +4,15 @@
 
 
 
+
+
 ### 개요
 
 ---------------------------------------------
 
 안드로이드를 공부하고 싶은데 뭘 어떻게 공부해야 할지 몰라 막막한 분들에게 안드로이드를 개발하는 데에 필요한 기초적인 지식들을 공부할 수 있도록 돕고자 커리큘럼을 제시하였습니다. 이 커리큘럼을 기반으로 공부하기가 막막하고 어려운 분들이 기초 지식을 쌓고, 더 많은 지식들을 배우는 데에 도움이 되기를 바랍니다.
+
+
 
 
 
@@ -19,6 +23,8 @@
 [안드로이드 개발자 공식사이트](https://developer.android.com/?hl=ko)
 
 [안드로이드 개발 시작하기](https://www.youtube.com/watch?v=EOfCEhWq8sg)
+
+
 
 
 
@@ -34,6 +40,8 @@
 
 
 
+
+
 #### 언어 선택하기 - Java? Kotlin?
 
 [Java, Kotlin 전격 비교](<https://academy.realm.io/kr/posts/kotlin-does-java-droidcon-boston-2017-gonda/>)
@@ -43,6 +51,8 @@
 [Kotlin, 안드로이드 공식 언어 발표](<https://www.youtube.com/watch?v=X1RVYt2QKQE>)
 
 [Java와 Kotlin을 함께 쓰기](<https://academy.realm.io/kr/posts/kotlin-with-java/>)
+
+
 
 
 
@@ -60,9 +70,13 @@
 
 
 
+
+
 #### 안드로이드 학습 추천 도서
 
 + [[Book]  Do it! 안드로이드 앱 프로그래밍](<https://book.naver.com/bookdb/book_detail.nhn?bid=14642204>) : 작성일 기준으로 최신 도서는 개정 6판입니다.
+
+
 
 
 
@@ -80,6 +94,8 @@
 
 
 
+
+
 #### 안드로이드 초급
 
 [Layout 종류 이해하기](<https://recipes4dev.tistory.com/66>) : 이외에도 ConstraintLayout, CoordinatorLayout 등 소개되지 않은 Layout도 있습니다.
@@ -91,6 +107,8 @@
 [Activity 생명주기 이해하기](<https://kairo96.gitbooks.io/android/content/ch2.4.1.html>)
 
 [화면 바꿔보기(Activity 전환)](<https://developer.android.com/training/basics/firstapp/starting-activity?hl=ko#java>)
+
+
 
 
 

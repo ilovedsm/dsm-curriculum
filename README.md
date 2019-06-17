@@ -12,8 +12,9 @@ IT분야에서는 절대 한 분야(서버, 웹 등)에서만 일을 하게 되�
 게임하는 시간만 줄이면 남들보다 훨씬 더 빨리 취업하실 수 있습니다. 게임은 집에서만 하는 것을 추천드립니다.
 
 ## Curriculum
+- [Android](https://github.com/ilovedsm/dsm-curriculum/blob/master/Android/README.md)
+- [Backend Engineering](https://github.com/ilovedsm/dsm-curriculum/tree/master/Backend%20Engineering/README.md)
 - [Machine Learning](https://github.com/ilovedsm/dsm-curriculum/blob/master/Machine%20Learning/README.md)
-- [Android](https://github.com/ilovedsm/dsm-curriculum/blob/master/Android/Android_Loadmap.md)
 
 ## Contributing
 

@@ -169,7 +169,7 @@
 #### 데이터셋
 1. [[Site]Kaggle : Your Home for Data Science](https://www.kaggle.com) : 다양하고 방대한 데이터셋을 다운로드 받을 수 있고, 여러 데이터 분석 프로젝트들을 열람할 수 있습니다.
 2. [[Site]공공 데이터 포털](https://www.data.go.kr) : 대한민국의 공공 데이터셋을 다운로드 받을 수 있고, 데이터를 활용한 프로젝트들을 열람할 수 있습니다.
-3. [[Site]](http://www.aihub.or.kr) : 한국에 최적화된 사진부터 음성까지 다양한 데이터셋이 있습니다.
+3. [[Site]AIHub](http://www.aihub.or.kr) : 한국에 최적화된 사진부터 음성까지 다양한 데이터셋이 있습니다.
 
 <br/>
 

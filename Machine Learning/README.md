@@ -165,8 +165,11 @@
 1. [[Site]딥러닝 로드맵](https://www.mindmeister.com/ko/812276967/_) : 딥러닝 로드맵을 교재 위주의 마인드맵 형식으로 정리한 자료입니다.
 2. [[Site]Dive into Deep Learning](http://ko.d2l.ai/index.html) : 모든 섹션들이 주피터 노트북으로 구성되어 있어 예제를 실행해보며 배울 수 있습니다. 매우 좋은 자료이기 때문에 매우매우매우매우 추천드립니다.
 3. [[GitHub]Deep Learning 500 Questions](https://github.com/scutan90/DeepLearning-500-questions) : 중국어 자료입니다. 용어에 대한 부분이 완전 정리가 잘되어있습니다. 수식이 깨지기 때문에 Typora를 사용하시는 것을 권장합니다.
-4. [[Site]Kaggle : Your Home for Data Science](https://www.kaggle.com) : 다양하고 방대한 데이터셋을 다운로드 받을 수 있고, 여러 데이터 분석 프로젝트들을 열람할 수 있습니다.
-5. [[Site]공공 데이터 포털](https://www.data.go.kr) : 대한민국의 공공 데이터셋을 다운로드 받을 수 있고, 데이터를 활용한 프로젝트들을 열람할 수 있습니다.
+
+#### 데이터셋
+1. [[Site]Kaggle : Your Home for Data Science](https://www.kaggle.com) : 다양하고 방대한 데이터셋을 다운로드 받을 수 있고, 여러 데이터 분석 프로젝트들을 열람할 수 있습니다.
+2. [[Site]공공 데이터 포털](https://www.data.go.kr) : 대한민국의 공공 데이터셋을 다운로드 받을 수 있고, 데이터를 활용한 프로젝트들을 열람할 수 있습니다.
+3. [[Site]](http://www.aihub.or.kr) : 한국에 최적화된 사진부터 음성까지 다양한 데이터셋이 있습니다.
 
 <br/>
 

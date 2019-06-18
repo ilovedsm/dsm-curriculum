@@ -42,25 +42,27 @@
 
 [Java와 Kotlin을 함께 쓰기](<https://academy.realm.io/kr/posts/kotlin-with-java/>)
 
+※Kotlin 언어로 개발을 하더라도, 안드로이드 공부하는 데에 있어서 Java 문법을 알아야 더욱 수월합니다. 본인은 개발 언어로 Kotlin을 사용하는 것을 추천하지만, Java를 사용하던, Kotlin을 사용하던, Java 문법을 숙지해야 좋습니다.
+
 
 
 #### 언어 학습 추천 도서
 
-+ ##### Java
+- ##### Java
 
-+ + [[Book]  Java의 정석](<https://book.naver.com/bookdb/book_detail.nhn?bid=10191151>)
-  + [[Book]  이것이 자바다](<https://book.naver.com/bookdb/book_detail.nhn?bid=8589375>)
+- - [[Book]  Java의 정석](<https://book.naver.com/bookdb/book_detail.nhn?bid=10191151>)
+  - [[Book]  이것이 자바다](<https://book.naver.com/bookdb/book_detail.nhn?bid=8589375>)
 
-+ ##### Kotlin
+- ##### Kotlin
 
-+ + [[Book]  커니의 코틀린](<https://book.naver.com/bookdb/book_detail.nhn?bid=12801360>) : Kotlin을 안드로이드에 적용한 코드가 포함되어있으며, 1장은 처음 읽기에 어려울 수 있습니다. 또한, Java를 이미 알고 있다는 전제 하에 쓰여진 책이므로, Java를 공부한 후에 읽어야 합니다.
-  + [[Book]  Kotlin in Action](<https://book.naver.com/bookdb/book_detail.nhn?bid=12685155>)
+- - [[Book]  커니의 코틀린](<https://book.naver.com/bookdb/book_detail.nhn?bid=12801360>) : Kotlin을 안드로이드에 적용한 코드가 포함되어있으며, 1장은 처음 읽기에 어려울 수 있습니다. 또한, Java를 이미 알고 있다는 전제 하에 쓰여진 책이므로, Java를 공부한 후에 읽어야 합니다.
+  - [[Book]  Kotlin in Action](<https://book.naver.com/bookdb/book_detail.nhn?bid=12685155>)
 
 
 
 #### 안드로이드 학습 추천 도서
 
-+ [[Book]  Do it! 안드로이드 앱 프로그래밍](<https://book.naver.com/bookdb/book_detail.nhn?bid=14642204>) : 작성일 기준으로 최신 도서는 개정 6판입니다.
+- [[Book]  Do it! 안드로이드 앱 프로그래밍](<https://book.naver.com/bookdb/book_detail.nhn?bid=14642204>) : 작성일 기준으로 최신 도서는 개정 6판입니다.
 
 
 
@@ -110,3 +112,18 @@
 
 [웹사이트 크롤링하기](<https://jsoup.org/>)
 
+
+
+### 세미나 및 컨퍼런스
+
+[Google Developer Group Android](<https://ko-kr.facebook.com/GDG.Korea.Android/>)
+
+[Droid Knights](<https://ko-kr.facebook.com/droidknights/>)
+
+
+
+### Update
+
+부가설명 추가 (2019/06/14)
+
+세미나 및 컨퍼런스 추가 (2019/06/18)

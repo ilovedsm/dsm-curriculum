@@ -18,7 +18,7 @@ DSM Curriculum은 대덕소프트웨어마이스터고등학교 재학생을 위
 - [Android](https://github.com/ilovedsm/dsm-curriculum/blob/master/Android/README.md)
 - [Backend Engineering](https://github.com/ilovedsm/dsm-curriculum/tree/master/Backend%20Engineering/README.md)
 - [Machine Learning](https://github.com/ilovedsm/dsm-curriculum/blob/master/Machine%20Learning/README.md)
-- [iOS]()
+- [iOS](https://github.com/ilovedsm/dsm-curriculum/blob/master/iOS/DSM_iOS_Baseline.md)
 
 ## Contributing
 
@@ -58,7 +58,7 @@ DSM Curriculum은 대덕소프트웨어마이스터고등학교 재학생을 위
 
 Android: [SeungMin Jeon](https://github.com/nwar-Jeon)
 
-iOS: [Dongky Lee](https://github.com/donkyey)
+iOS: [Donggy Lee](https://github.com/donkyey)
 
 Machine Learning: [SoHyeon An](https://github.com/sleepyeePanda), [DongGeun Yu](https://github.com/Yudonggeun)
 

@@ -58,7 +58,7 @@ DSM Curriculum은 대덕소프트웨어마이스터고등학교 재학생을 위
 
 Android: [SeungMin Jeon](https://github.com/nwar-Jeon)
 
-iOS: [Donggy Lee](https://github.com/donkyey)
+iOS: [Donggi Lee](https://github.com/donkyey)
 
 Machine Learning: [SoHyeon An](https://github.com/sleepyeePanda), [DongGeun Yu](https://github.com/Yudonggeun)
 

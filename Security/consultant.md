@@ -28,7 +28,7 @@ major company -> Not selecting new employees
 
 Private enterprise, Small Business -> Career
 
-example \
+example 
 
 **Password complexity**  powerful means uncomfortable \
 **certification** 
@@ -50,9 +50,9 @@ example \
 
 https://isms.kisa.or.kr/main/ispims/notice/ 
 
-privacy.go.kr
+https://privacy.go.kr
 
-kisa.or.kr
+https://kisa.or.kr
 
-kcc.go.kr
+https://kcc.go.kr
 

@@ -25,10 +25,10 @@
     2. Script kiddies
     1. Lamer
 
- value * outflow ? Shock * detection 
+Hacking Worth : value * outflow ? Shock * detection 
         
 
- > value : 자료 encryption, Anonymity (masking) \
+ > value : Data  encryption, Anonymity (masking) \
  > outflow : \
  > shock : mentality, Psychological misconduct, 
 

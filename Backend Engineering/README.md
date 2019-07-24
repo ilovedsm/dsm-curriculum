@@ -1,57 +1,203 @@
-# Base knowledges
 
-### 사전에 준비해야 할 것들
+### 서버-클라이언트 구조 이해
 
-- AWS 계정 만들기
-- JetBrains/GitHub 학생인증 진행하기
+1. 네트워크의 등장
+2. 클라이언트-클라이언트(Peer to Peer)
+3. 서버-클라이언트
 
-### Database
+[Peer to Peer (P2P) 방식과 Client/Server (CS)](http://www.gameserverlab.com/archives/312)
 
-- [데이터베이스 개론](http://www.yes24.com/Product/Goods/67882661?scode=032&OzSrank=1)
-- [데이터베이스 첫걸음 시리즈](http://www.yes24.com/Product/Goods/32613394?scode=032&OzSrank=12)
+### 언어 결정
 
-### For Flask
+다른 직군과는 달리, 프로그래밍 언어 선택지가 많은 편입니다.
 
-- [모두의 파이썬](http://www.yes24.com/Product/Goods/66531799?scode=032&OzSrank=1)
+그만큼 언어 당 백엔드 프레임워크도 많고, 무조건 따라하기 보다는 직접 프레임워크를 선택하세요.
 
-  : 파이썬의 기초에 대해 쉽게 풀이한 도서입니다. 파이썬의 기본 문법을 익힐 수 있습니다.
+1. [[Github] web-frameworks](https://github.com/the-benchmarker/web-frameworks) : 웹 프레임워크들의 벤치마킹 보고서.
 
-- [--Awesome-Python--](https://github.com/JoMingyu/--Awesome-Python--)
+### Package Manager
 
-  : PlanB님의 파이썬에 대한 노하우가 담겨 있는 Repository 입니다.
+Package Manager의 필요성에 대한 고민하기.
 
-- [REST APIs with Flask and Python](https://www.udemy.com/share/1013i4BEMSclhTTHw=/)
-  : Build professional REST APIs with Python, Flask, Flask-RESTful, and Flask-SQLAlchemy
-  Flask를 학습하는 데 있어 더할 나위 없는 좋은 강좌입니다. 영문으로 되어 있으며, 파이썬의 기초부터 - 세세한 내용까지도 - 차근차근 학습할 수 있습니다. 시간이 지나도 계속 업데이트되니 한 번 참고해 보세요.
+예를들어 , **PHP**는 composer, **Node.js** 는 npm과 yarn **Python**은 pip, **Ruby**는 gems
 
-- [Flask Documentation](http://flask.pocoo.org/docs/1.0/)
-  : Flask 에 관련한 내용들이 상세히 기술되어 있는 Flask 공식 문서입니다. Tutorial을 진행함으로써 많은 내용들을 학습할 수 있습니다. 여유가 된다면 문서의 코드를 참고해서 튜토리얼을 진행해 보세요. 큰 도움이 될 수 있을 것입니다.
+### 풀 스택 프레임워크와 마이크로 프레임워크의 차이
 
-- [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+### 프로토콜
 
-  : Flask에 대해 쉽게 접근할 수 있도록 여러 기능들을 풀이한 블로그입니다.
-  
-# 기타
+OSI 7계층에 대해 알아보기.
 
-- [WSGI의 정의](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)
-- [미들웨어란? - RedHat](https://www.redhat.com/ko/topics/middleware/what-is-middleware)
-- https://meetup.toast.com/posts/92
-  : RESTful에 대해 자세히 설명한 글
-- https://bcho.tistory.com/321
-  : REST Architecture에 대해 설명한 글
-- [Postman이란? - Toast Meetup](https://meetup.toast.com/posts/107)
-  : 자신이 만든 API가 정상 작동하는지 확인해보고 싶을 때 쓸 수 있는 툴인 Postman 이용하기
-- [Heroku에서 Flask 올리기](http://blog.weirdx.io/post/9008)
+- TCP/IP
+- HTTP
+- HTTP over SSL
+- WS
+
+### **버전 관리**
+
+GIT
+
+GIT Flow (git branch 전략)
+
+### 데이터베이스
+
+- 파일 시스템의 문제점에 대한 이해.
+- 데이터베이스 설계와 모델링
+- SQL
+- DBMS
+    - 각 RDBMS 마다의 특징, 각 NoSQL만의 특징 이해하기.
+    - MySQL, PostgreSQL, Oracle
+    - MongoDB, Redis, Memcached, Aerospike, Neo4j, InfluxDB
+- ORM
+
+### 인증
+
+- Cookie
+- Session
+- Token
+    - request header
+    - 사용자 지정 헤더 ( ex: X-AccessToken )
+    - JWT AccessToken & RefreshToken
+- OAuth
+
+### 실시간
+
+- Polling
+- SSE(Server Sent Event)
+- Streaming
+- WebSocket
+
+### **Test Tool**
+
+- Postman
+- Insomnia
+
+### **API Docs**
+
+필요성 이해
+
+- Swagger
+- Redoc
+- Slate
+
+### 테스트
+
+- API 개발 입장에서 TDD의 필요성 이해
+- 테스트 코드 작성
+- TDD의 원칙
+- DDD, BDD
+- 유닛테스트 라이브러리
+- mocking
+
+### 웹 서버
+
+- 아파치
+- 톰캣
+- nginx
+
+### CI (Continuous Integration)
+
+- Travis-CI
+- Jenkins
+- Circle-CI
+
+### **클라이언트와의 연동**
+
+- CORS (Cross-Origin Resource Sharing) 개념
+- 도메인과 호스팅
+
+### 배포 자동화
+
+- Ansible
+- Chef
+- Capistrano
+- Puppet
+- Fabric
+
+### 로그, 데이터 분석
+
+log 로 남기는 정보들에 대해 알아야 함
+
+log level ( debug:0 > info:1 > notice:2 > warning:3 > error:4 > crit:5 > alert:6 > emerg:7 )
+
+logging 라이브러리 , 자신의 서비스에 맞게 커스텀 해보기
+
+- ELK Stack
+- Hadoop
+- HDFS
+- Spark
+- Zeppelin
+
+### 캐싱
+
+- Redis
+- memcached
+
+### 모니터링
+
+- Zabbix
+- New Relic
+- Grafana, Graphite, Prometheus
+
+### 메시지 큐
+
+- Kafka
+- RabbitMQ
+- ZeroMQ
+- Celery
+- Beanstalkd
+- Amazon SQS
+
+### **보안**
+
+서버의 취약점에 대해 알고있어야함
+
+- XSS
+- CSRF
+- SQL injection
+- 보안 지원 라이브러리
+
+### **협업**
+
+- Agile 개발론
+- 협업 툴 사용 (notion, slack, Jira, 잔디)
+
+### **클라우드 서비스**
+
+Iaas / PaaS / SaaS 의 개념
+
+Heroku
+
+### AWS 서비스
+
+- 컴퓨팅 : EC2, Elastic Container Service, Lambda, API Gateway
+- 스토리지 : S3, EBS, EFS
+- 데이터베이스 : Aurora(MySQL 호환 RDB), DynamoDB(Key-value NoSQL 데이터베이스)
+- 데이터베이스 관리 : RDS(RDB 관리), ElastiCache(NoSQL 관리), Redshift(데이터 웨어하우스)
+- CDN : CloudFront
+- 배포 자동화 : CodeDeploy
+
+### GCP 서비스
+
+- 컴퓨팅 : Compute Engine, App Engine, Kubernetes Engine, Container Registry, Cloud Function
+- 스토리지 : Cloud Storage
+- 데이터베이스 : Cloud Bigtable(대규모 분석 및 운영 작업을 위한 NoSQL 빅데이터 데이터베이스), Cloud Datastore(확장성 높은 NoSQL 데이터베이스)
+- 데이터베이스 관리 : Cloud SQL(RDB 관리)
+- CDN : Cloud CDN
+- 배포 자동화 : Deployment Manager
+
+### **Agenda**
+
+- CRUD가 가능한 게시판 구현 (4단계 수행)
+- Compute Engine 결정과 hello world 서버 배포
 
 # Anything Else?
 
-- [44bits.io](44bits.io)
-- [roadmap.sh](http://roadmap.sh)
-  : 백엔드 및 프론트엔드, 데브옵스가 되는 과정을 담은 로드맵
-- https://www.ridicorp.com/blog/
-  : 리디북스 블로그
-- http://woowabros.github.io
-  : 우아한형제들 기술블로그
+### **크롤링 Crawling (anything Else)**
 
+- 크롤링의 개념 (데이터 수집과 대용량 데이터 처리)
+- 라이브러리를 이용할 크롤링
+- selenium 을 이용한 고수준의 크롤링
 
-
+- [44bits.io](notion://www.notion.so/applebox/44bits.io) : 백엔드 및 클라우드쪽의 편향적인 지식을 얻을 수 있는 블로그. 트렌디한 기술 스택을 소개해준다.
+- [roadmap.sh](http://roadmap.sh/) or [[Github] 2019년 웹 개발자가 되기 위한 로드맵](https://github.com/devJang/developer-roadmap)
+: 백엔드 및 프론트엔드, 데브옵스가 되는 과정을 담은 로드맵

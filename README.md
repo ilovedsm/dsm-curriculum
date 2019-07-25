@@ -74,7 +74,7 @@ Web: [IsSac Choi](https://github.com/leafcis), [JunWoo Kim](https://github.com/j
 #### Update
 
 ##### 오탈자 및 문법 오류 수정
-[HyungGyu Kim](https://github.com/khg0712): [aa89aa8](https://github.com/ilovedsm/dsm-curriculum/commit/0e8b3ced65a92f771b3299cd4e485704758a00ce)
+[HyungGyu Kim](https://github.com/khg0712): [1](https://github.com/ilovedsm/dsm-curriculum/pull/2)
 
 ##### 깨진 link 복구
 

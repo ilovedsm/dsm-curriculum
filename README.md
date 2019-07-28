@@ -64,9 +64,10 @@ Machine Learning: [SoHyeon An](https://github.com/sleepyeePanda), [DongGeun Yu](
 
 Other: [YoonSu Jang](https://github.com/YoonSu03), [SeongUk Kim](https://github.com/kimsos0723), [HaeGeon Kim](https://github.com/KamiPer)
 
-ReadMe: [JaeHun Jung](https://github.com/littlemenu), [DongGeun Yu](https://github.com/Yudonggeun)
+ReadMe: **[JaeHun Jung](https://github.com/littlemenu)**, **[DongGeun Yu](https://github.com/Yudonggeun)**
 
-Server: [JaeHoon Kim](https://github.com/by09115), [YunJae Kim](https://github.com/miraedbswo)
+Server: [JaeHoon Kim](https://github.com/by09115), **[YunJae Kim](https://github.com/miraedbswo)**, **[ShinWoo Hwang
+](https://github.com/huewilliams)**
 
 Web: [IsSac Choi](https://github.com/leafcis), [JunWoo Kim](https://github.com/junu126)
 

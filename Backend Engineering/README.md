@@ -1,3 +1,20 @@
+# DSM Backend Curriculum
+
+백엔드 개발자를 목표로 하고 있는 친구들, 그리고 서버 개발을 배우고 싶은 친구들이 백엔드 분야에 도전하는 것을 도와주기 위해 이 커리큘럼을 작성하게 되었습니다.
+
+
+
+체계적이고 단계적인 학습을 위해 단계를 나누었습니다. 단계에 적힌 순서를 무조건 따라야 하는 것은 아니며 유동적으로 판단하여 학습하시길 바랍니다. 또한 단계 별로 챌린지를 설정해두었습니다. 공부를 하기 전 목표를 세우고 그것을 이루어내었을 때의 `성취감`을 얻길 바랍니다.
+
+
+
+마지막으로 학습의 재미는 자신만의 커리큘럼과 공부법을 찾아가는 것에 있다고 생각합니다. 이 커리큘럼을 참고하되 맹목적으로 따르지 말고 `왜 이것을 배워야 하는가?` 를 스스로에게 끊임없이 질문하세요.
+
+
+
+## STEP 1
+
+> Challenge #1: 자신만의 언어를 정하고 그 언어로 간단한 미니 프로젝트 하나를 완성시켜보자.
 
 ### 서버-클라이언트 구조 이해
 
@@ -7,6 +24,8 @@
 
 [Peer to Peer (P2P) 방식과 Client/Server (CS)](http://www.gameserverlab.com/archives/312)
 
+
+
 ### 언어 결정
 
 다른 직군과는 달리, 프로그래밍 언어 선택지가 많은 편입니다.
@@ -15,13 +34,19 @@
 
 1. [[Github] web-frameworks](https://github.com/the-benchmarker/web-frameworks) : 웹 프레임워크들의 벤치마킹 보고서.
 
+   
+
 ### Package Manager
 
 Package Manager의 필요성에 대한 고민하기.
 
 예를들어 , **PHP**는 composer, **Node.js** 는 npm과 yarn **Python**은 pip, **Ruby**는 gems
 
+
+
 ### 풀 스택 프레임워크와 마이크로 프레임워크의 차이
+
+
 
 ### 프로토콜
 
@@ -32,11 +57,19 @@ OSI 7계층에 대해 알아보기.
 - HTTP over SSL
 - WS
 
-### **버전 관리**
+
+
+### 버전 관리
 
 GIT
 
 GIT Flow (git branch 전략)
+
+
+
+## STEP 2
+
+> Challenge #2 : 인증과 DB 연동 기능이 있는 간단한 게시판을 만들어보자.
 
 ### 데이터베이스
 
@@ -59,17 +92,28 @@ GIT Flow (git branch 전략)
     - JWT AccessToken & RefreshToken
 - OAuth
 
+### **Test Tool**
+
+- Postman
+- Insomnia
+
+
+
+## STEP 3
+
+> Challenge #3 : 내 서버를 클라이언트와 연동해보자. 실시간 통신을 배워 클라이언트와 함께 실시간 채팅 서비스를 개발해보자. 혼자 하는 것 보다는 클라이언트를 공부하는 다른 친구와 함께 하는 것을 추천함. 
+
+### **클라이언트와의 연동**
+
+- CORS (Cross-Origin Resource Sharing) 개념
+- 도메인과 호스팅
+
 ### 실시간
 
 - Polling
 - SSE(Server Sent Event)
 - Streaming
 - WebSocket
-
-### **Test Tool**
-
-- Postman
-- Insomnia
 
 ### **API Docs**
 
@@ -78,6 +122,24 @@ GIT Flow (git branch 전략)
 - Swagger
 - Redoc
 - Slate
+
+### PaaS 클라우드
+
+서버를 클라우드에 올려보자
+
+* Heroku
+
+## STEP 4
+
+> Challenge #4 : 그동안 배운 것들을 최대한 활용하여 SNS 서비스 (페이스북, 트위터, 인스타그램) 을 클론 코딩 해보자. 클라이언트 친구와 협업하는 것을 추천함. 그리고  내 서버의 질을 높이기 위한 다양한 시도를 해보자.
+
+### 아키텍쳐/패턴
+
+* RESTful API
+* Monolitic Architecture
+* MSA (MicroService Architecture)
+* Serverless Architecture
+* MVC pattern (Model-View-Controller)
 
 ### 테스트
 
@@ -94,16 +156,26 @@ GIT Flow (git branch 전략)
 - 톰캣
 - nginx
 
+### 캐싱
+
+- Redis
+- memcached
+
+### docker
+
+* 컨테이너 , 이미지, 레지스트리 개념
+* docker로 서버 배포하기
+* docker compose
+
+## STEP 5
+
+> 이제 자신만의 Challenge 를 세우고 수행하자. 더 나은 코드 더 나은 서버 구축을 목표로 하자.
+
 ### CI (Continuous Integration)
 
 - Travis-CI
 - Jenkins
 - Circle-CI
-
-### **클라이언트와의 연동**
-
-- CORS (Cross-Origin Resource Sharing) 개념
-- 도메인과 호스팅
 
 ### 배포 자동화
 
@@ -126,11 +198,6 @@ logging 라이브러리 , 자신의 서비스에 맞게 커스텀 해보기
 - HDFS
 - Spark
 - Zeppelin
-
-### 캐싱
-
-- Redis
-- memcached
 
 ### 모니터링
 
@@ -165,8 +232,6 @@ logging 라이브러리 , 자신의 서비스에 맞게 커스텀 해보기
 
 Iaas / PaaS / SaaS 의 개념
 
-Heroku
-
 ### AWS 서비스
 
 - 컴퓨팅 : EC2, Elastic Container Service, Lambda, API Gateway
@@ -184,11 +249,6 @@ Heroku
 - 데이터베이스 관리 : Cloud SQL(RDB 관리)
 - CDN : Cloud CDN
 - 배포 자동화 : Deployment Manager
-
-### **Agenda**
-
-- CRUD가 가능한 게시판 구현 (4단계 수행)
-- Compute Engine 결정과 hello world 서버 배포
 
 # Anything Else?
 

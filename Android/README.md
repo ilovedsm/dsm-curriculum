@@ -1,12 +1,8 @@
 # DSM Android Crriculum
 
-# 언어
-
-## JAVA
-[간단한 자바](https://github.com/jinusong/JAVA-Studying)
-
-## Kotlin
-[Kotlin](https://github.com/jinusong/Kotlin)
+## 언어
+* [간단한 자바](https://github.com/jinusong/JAVA-Studying)
+* [Kotlin](https://github.com/jinusong/Kotlin)
 
 # Android
 [안드로이드 단단해지기](https://github.com/SeungYongSon/Gaining-Ground-To-Android)  

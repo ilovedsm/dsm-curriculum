@@ -56,7 +56,7 @@ DSM Curriculum은 대덕소프트웨어마이스터고등학교 재학생을 위
 
 #### Revise
 
-Android: [SeungMin Jeon](https://github.com/nwar-Jeon), [Jinusong](https://github.com/jinusong)
+Android: [SeungMin Jeon](https://github.com/nwar-Jeon), [JinWoo Song](https://github.com/jinusong)
 
 iOS: [Donggi Lee](https://github.com/donkyey)
 

@@ -166,6 +166,7 @@ GIT Flow (git branch 전략)
 * 컨테이너 , 이미지, 레지스트리 개념
 * docker로 서버 배포하기
 * docker compose
+* docker swarm
 
 ## STEP 5
 
@@ -177,15 +178,28 @@ GIT Flow (git branch 전략)
 - Jenkins
 - Circle-CI
 
-### 배포 자동화
+### 서비스 프로비저닝
 
 - Ansible
 - Chef
 - Capistrano
 - Puppet
 - Fabric
+- **Terraform**
+- Vagrant
 
-### 로그, 데이터 분석
+
+### 로그 수집
+- Logstash
+- Filebeat, Packetbeat
+- Fluentd
+
+### 로그 처리
+- Logstash (filter)
+- Hadoop
+- Spark
+
+### 로그 분석 및 시각화
 
 log 로 남기는 정보들에 대해 알아야 함
 
@@ -193,14 +207,19 @@ log level ( debug:0 > info:1 > notice:2 > warning:3 > error:4 > crit:5 > alert:6
 
 logging 라이브러리 , 자신의 서비스에 맞게 커스텀 해보기
 
-- ELK Stack
-- Hadoop
-- HDFS
-- Spark
+- ElasticSearch
 - Zeppelin
+- Datadog
+- Splunk
+
+#### 에러 로그 트레이싱
+ 
+- Sentry
+   - On-Premise 설치는 무료
 
 ### 모니터링
 
+- Fluentd
 - Zabbix
 - New Relic
 - Grafana, Graphite, Prometheus
@@ -210,7 +229,6 @@ logging 라이브러리 , 자신의 서비스에 맞게 커스텀 해보기
 - Kafka
 - RabbitMQ
 - ZeroMQ
-- Celery
 - Beanstalkd
 - Amazon SQS
 
@@ -221,12 +239,15 @@ logging 라이브러리 , 자신의 서비스에 맞게 커스텀 해보기
 - XSS
 - CSRF
 - SQL injection
-- 보안 지원 라이브러리
+
+#### 보안정보 관리도구
+
+- Hashicorp Vault
 
 ### **협업**
 
 - Agile 개발론
-- 협업 툴 사용 (notion, slack, Jira, 잔디)
+- 협업 툴 사용 (Notion, slack, Jira, 잔디)
 
 ### **클라우드 서비스**
 
@@ -234,10 +255,12 @@ Iaas / PaaS / SaaS 의 개념
 
 ### AWS 서비스
 
-- 컴퓨팅 : EC2, Elastic Container Service, Lambda, API Gateway
+- 컴퓨팅 : EC2, Fargate, Lambda
+- 오케스트레이션 서비스: ECS, EKS
 - 스토리지 : S3, EBS, EFS
-- 데이터베이스 : Aurora(MySQL 호환 RDB), DynamoDB(Key-value NoSQL 데이터베이스)
-- 데이터베이스 관리 : RDS(RDB 관리), ElastiCache(NoSQL 관리), Redshift(데이터 웨어하우스)
+- 데이터베이스 : Aurora(MySQL, PostgreSQL 호환 RDB), DynamoDB(Key-value NoSQL 데이터베이스)
+- 데이터베이스 관리 : RDS(RDB 관리), Redshift(데이터 웨어하우스)
+- 캐싱:  ElastiCache(Redis, memcached 관리형 서비스)
 - CDN : CloudFront
 - 배포 자동화 : CodeDeploy
 

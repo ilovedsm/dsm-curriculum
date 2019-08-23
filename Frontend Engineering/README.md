@@ -149,7 +149,18 @@ HTMl, CSS, JS까지 모두 배웠다면 이제 직접 개발해 볼 차례입니
 
 구글과 이 책에서 큰 도움을 얻었습니다. 꼭 읽어보시고  React.js의 마스터가 되시길 바랍니다.
 
+### Vue.js
 
+쉬운 프레임워크를 찾고 있다면 Vue도 좋은 선택이 될 수 있습니다. 뷰의 장점은
+
+1. 러닝커브가 작다(사람마다 다를수 있습니다)
+2. virtual Dom을 사용한다.
+
+- [Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
+- [Vue 공식 홈페이지 가이드](https://kr.vuejs.org/v2/guide/)
+
+프레임워크를 고르기 힘들때 아래의 글을 참고해 보세요.
+- [React인가 Vue인가](https://joshua1988.github.io/web-development/translation/vue-or-react/)
 
 # 끝으로
 

@@ -18,7 +18,7 @@ DSM Curriculum은 대덕소프트웨어마이스터고등학교 재학생을 위
 - [Android](https://github.com/ilovedsm/dsm-curriculum/blob/master/Android/README.md)
 - [Backend Engineering](https://github.com/ilovedsm/dsm-curriculum/tree/master/Backend%20Engineering/README.md)
 - [Frontend Engineering](https://github.com/ysjk2003/dsm-curriculum/tree/master/Frontend%20Engineering)
-- [iOS](https://github.com/ilovedsm/dsm-curriculum/blob/master/iOS/DSM_iOS_Baseline.md)
+- [iOS](https://github.com/ilovedsm/dsm-curriculum/blob/master/iOS/README.md)
 
 ## Contributing
 

@@ -81,5 +81,6 @@ Web: [Issac Choi](https://github.com/leafcis), [Junwoo Kim](https://github.com/j
 
 ##### 더 좋은 자료 추가
 [Seonghyeon Kim](https://github.com/NovemberOscar): [1](https://github.com/ilovedsm/dsm-curriculum/pull/3)
+[Mingyu Kim](https://github.com/ysjk2003): [1](https://github.com/ilovedsm/dsm-curriculum/pull/4)
 
 ##### 기타

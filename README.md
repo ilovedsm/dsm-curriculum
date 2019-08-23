@@ -55,29 +55,30 @@ DSM Curriculum은 대덕소프트웨어마이스터고등학교 재학생을 위
 
 #### Revise
 
-Android: [SeungMin Jeon](https://github.com/nwar-Jeon), [JinWoo Song](https://github.com/jinusong)
+Android: [Seungmin Jeon](https://github.com/nwar-Jeon), [Jinwoo Song](https://github.com/jinusong)
 
 iOS: [Donggi Lee](https://github.com/donkyey)
 
-Machine Learning: [SoHyeon An](https://github.com/sleepyeePanda), [DongGeun Yu](https://github.com/Yudonggeun)
+Machine Learning: [Sohyeon An](https://github.com/sleepyeePanda), [Donggeun Yu](https://github.com/Yudonggeun)
 
-Other: [YoonSu Jang](https://github.com/YoonSu03), [SeongUk Kim](https://github.com/kimsos0723), [HaeGeon Kim](https://github.com/KamiPer)
+Other: [Yoonsu Jang](https://github.com/YoonSu03), [Seonguk Kim](https://github.com/kimsos0723), [Haegeon Kim](https://github.com/KamiPer)
 
-ReadMe: **[JaeHun Jung](https://github.com/littlemenu)**, **[DongGeun Yu](https://github.com/Yudonggeun)**
+ReadMe: **[Jaehun Jung](https://github.com/littlemenu)**, **[Donggeun Yu](https://github.com/Yudonggeun)**
 
-Server: [JaeHoon Kim](https://github.com/by09115), **[YunJae Kim](https://github.com/miraedbswo)**, **[ShinWoo Hwang
+Server: [Jaehoon Kim](https://github.com/by09115), **[Yunjae Kim](https://github.com/miraedbswo)**, **[Shinwoo Hwang
 ](https://github.com/huewilliams)**
 
-Web: [IsSac Choi](https://github.com/leafcis), [JunWoo Kim](https://github.com/junu126)
+Web: [Issac Choi](https://github.com/leafcis), [Junwoo Kim](https://github.com/junu126)
 
 
 #### Update
 
 ##### 오탈자 및 문법 오류 수정
-[HyungGyu Kim](https://github.com/khg0712): [1](https://github.com/ilovedsm/dsm-curriculum/pull/2)
+[Hyunggyu Kim](https://github.com/khg0712): [1](https://github.com/ilovedsm/dsm-curriculum/pull/2)
 
 ##### 깨진 link 복구
 
 ##### 더 좋은 자료 추가
+[Seonghyeon Kim](https://github.com/NovemberOscar): [1](https://github.com/ilovedsm/dsm-curriculum/pull/3)
 
 ##### 기타

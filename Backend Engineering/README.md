@@ -82,7 +82,7 @@ GIT Flow (git branch 전략)
     - MongoDB, Redis, Memcached, Aerospike, Neo4j, InfluxDB
 - ORM (객체 관계 매핑)
     - ORM의 정의, ORM을 사용하는 이유, ORM의 종류 알기
-    - [Sequelize](https://sequelize.org/), [Prisma](https://www.prisma.io/)
+    - Sequelize, Prisma
 
 ### 인증
 

@@ -42,7 +42,7 @@ Package Manager의 필요성에 대한 고민하기.
 
 예를들어 , **PHP**는 composer, **Node.js** 는 npm과 yarn **Python**은 pip, **Ruby**는 gems
 
-
+1. [패키지 매니저 - 생활코딩](https://opentutorials.org/course/1750/10064)
 
 ### 풀 스택 프레임워크와 마이크로 프레임워크의 차이
 
@@ -286,3 +286,11 @@ Iaas / PaaS / SaaS 의 개념
 - [44bits.io](notion://www.notion.so/applebox/44bits.io) : 백엔드 및 클라우드쪽의 편향적인 지식을 얻을 수 있는 블로그. 트렌디한 기술 스택을 소개해준다.
 - [roadmap.sh](http://roadmap.sh/) or [[Github] 2019년 웹 개발자가 되기 위한 로드맵](https://github.com/devJang/developer-roadmap)
 : 백엔드 및 프론트엔드, 데브옵스가 되는 과정을 담은 로드맵
+
+
+### GraphQL
+
+- GraphQL의 개념 (쿼리 언어와, GraphQL과 RESTful API와의 차이점)
+- GraphQL을 이용한 쿼리
+- GraphQL을 적용해보기
+- [GraphQL](https://graphql.org/)

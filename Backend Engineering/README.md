@@ -80,7 +80,9 @@ GIT Flow (git branch 전략)
     - 각 RDBMS 마다의 특징, 각 NoSQL만의 특징 이해하기.
     - MySQL, PostgreSQL, Oracle
     - MongoDB, Redis, Memcached, Aerospike, Neo4j, InfluxDB
-- ORM
+- ORM (객체 관계 매핑)
+    - ORM의 정의, ORM을 사용하는 이유, ORM의 종류 알기
+    - [Sequelize](https://sequelize.org/), [Prisma](https://www.prisma.io/)
 
 ### 인증
 
